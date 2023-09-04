@@ -79,7 +79,11 @@ print("RMSE= ",rmse)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+
+
 1.df.head()
+
+
 ![tail](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/f60facd4-028f-4ddf-b214-8d5e8f03f284)
 
 
