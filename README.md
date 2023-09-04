@@ -88,5 +88,88 @@ print("RMSE= ",rmse)
 
 
 
+2.df.tail()
+
+
+
+![head jpeg](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/d29af7d1-60bc-47eb-b821-efd8bff3a86b)
+
+
+
+
+3.Array Value of X
+
+
+
+![x jpeg](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/c329ae76-0bde-45a9-91a0-83a969120862)
+
+
+
+
+4.Array Value of Y
+
+
+
+![y jpeg](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/70667c0a-e253-4f5b-9987-7c4a619d635a)
+
+
+
+
+
+
+5. Values of Y prediction
+
+
+
+
+![pp jpeg](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/f4cdfb20-3ac5-457c-a4f5-202651c2dd41)
+
+
+
+
+6. Array values of Y test
+
+
+
+
+![jj jpeg](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/cbb73ed4-4d7d-40d0-a250-64e434f4ede4)
+
+
+
+
+
+7. Training Set Graph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
