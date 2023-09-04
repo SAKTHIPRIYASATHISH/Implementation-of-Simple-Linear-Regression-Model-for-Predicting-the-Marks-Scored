@@ -146,6 +146,49 @@ print("RMSE= ",rmse)
 
 
 
+![train](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/a02b7818-28ee-4804-bbb3-4a8bfc3ecea8)
+
+
+
+
+
+8. Test Set Graph
+
+
+
+
+
+
+
+
+
+![bus](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/f46eb14c-2767-42c5-bb3c-b99da6020006)
+
+
+
+
+
+
+
+
+
+9. Values of MSE, MAE and RMSE
+
+
+
+
+
+![scotty](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104282/d68849cb-8c59-4343-aadb-cc27ab6b251e)
+
+
+
+
+
+
+
+
+
+
 
 
 
